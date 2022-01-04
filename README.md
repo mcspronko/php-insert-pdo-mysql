@@ -1,16 +1,3 @@
-# The insert.php template
+# Insert HTML Form data into MySQL database using PHP PDO
 
-```php
-<?php
-
-// 1. Validate required fields
-
-// 2. Validate email
-
-// 3. Connect to a database
-
-// 4. Check if email exists in the database table
-
-// 5. Insert a new user
-
-```
+Watch a [video tutorial on YouTube](https://youtu.be/MU_U-XraZlo).
